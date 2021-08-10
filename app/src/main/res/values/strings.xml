@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Pape Mor</string>
+    <string name="nav_header_subtitle">papemor@pape.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="presentation">Adyen est la seul solution de paiement de facture à proposer une infrastructure moderne, robuste et omnicanal.\n
+
+En effet, la solution vous permet d’accepter tous les paiements en ligne, sur app et sur mobile mais également en boutique. cette solution met en place un système de commerce unifié afin d’aider les E-commerçants à améliorer leur expérience d’achat.\n
+
+De plus, si vous souhaitez vous développer à l’international, Adyen vous met à disposition un traitement mondial des paiements en une seule intégration. La solution agit pour simplifier les paiements de facture.</string>
+    <string name="aide">
+        Avec cette application,  gagner du temps lors de vos paiments de facture. Il  suffit de:\n
+
+·         Accéder à l’interface d’accueil de l’application.\n
+
+·         Cliquer sur la catégorie « Paiement de facture »\n
+
+·         Saisir le code de votre facture. Si votre marchand possède un QR code, vous pouvez cliquer sur « SCANNER », et votre caméra effectuera automiquement le paiement.\n
+
+·         Valider votre paiement en saisissant votre code secret
+    </string>
+</resources>
